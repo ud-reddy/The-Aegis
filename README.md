@@ -22,7 +22,7 @@ The project modernises the student digital experience by improving **attendance 
 
 Athena operates through a **bi-directional architecture**, where both the web platform and mobile app communicate with a central core database.
 
-![High-Level Bi-Directional Data Flow Architecture](./assets/architecture.png)
+![High-Level Bi-Directional Data Flow Architecture](assets/Gemini_Generated_Image_nr1z5nr1z5nr1z5n.png)
 
 - Real-time data sync across platforms
 - Single source of truth for attendance, modules, and learning progress
